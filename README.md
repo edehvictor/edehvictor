@@ -62,6 +62,12 @@ I'm interested in contributing to and collaborating on projects involving:
 
 - GitHub: [@edehvictor](https://github.com/edehvictor)
 
+## GitHub Stats
+
+![Victor Edeh GitHub Stats](https://github-readme-stats.vercel.app/api?username=edehvictor&show_icons=true&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=334155&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edehvictor&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff)
+
 ## Profile Note
 
 This profile is a reflection of my ongoing work, learning, and growth as a developer. I'm always looking to improve, build meaningful things, and contribute to projects that value quality and impact.
