@@ -1,23 +1,20 @@
 # Hi, I'm Victor Edeh
 
-I'm a software developer committed to building reliable, maintainable, and production-ready systems. My work is driven by a strong interest in backend engineering, smart contract development, testing, and developer-focused workflows.
+I build reliable, maintainable, and production-ready software with a strong focus on backend engineering, smart contract development, testing, and developer workflows.
 
-I enjoy solving complex technical problems with clean architecture, thoughtful implementation, and a strong focus on quality. Whether working on core application logic, blockchain contracts, or system design, I value clarity, security, and long-term maintainability.
+My approach to engineering is grounded in clarity, security, and long-term maintainability. I enjoy solving complex problems with clean architecture, thoughtful implementation, and practical attention to quality.
 
 ## Professional Summary
 
-I build software with an emphasis on:
-- clean, readable, and well-structured code
-- strong testing practices and deterministic behavior
-- secure and reliable application logic
-- maintainable systems that scale with real-world use
-- collaborative workflows that make teams more effective
+- Backend and systems-focused software development
+- Smart contract engineering with production-minded thinking
+- Clean architecture, maintainable code, and strong testing practices
+- Developer-friendly workflows that improve reliability and collaboration
 
-My interests include smart contract systems, backend services, engineering quality, and tools that improve how software is built and maintained.
+My interests include secure application logic, blockchain systems, backend services, engineering quality, and tools that improve how software is built and maintained.
 
 ## Technical Focus
 
-### Core Areas
 - Backend development
 - Smart contract engineering
 - API and system design
@@ -58,15 +55,9 @@ I'm interested in contributing to and collaborating on projects involving:
 - blockchain and smart contract applications
 - engineering quality improvements through testing and refactoring
 
-## GitHub
+## Connect
 
 - GitHub: [@edehvictor](https://github.com/edehvictor)
-
-## GitHub Stats
-
-![Victor Edeh GitHub Stats](https://github-readme-stats.vercel.app/api?username=edehvictor&show_icons=true&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=334155&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edehvictor&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff)
 
 ## Profile Note
 
