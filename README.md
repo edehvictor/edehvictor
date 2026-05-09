@@ -25,6 +25,4 @@ My approach to engineering is grounded in clarity, security, and long-term maint
 - GitHub: [@edehvictor](https://github.com/edehvictor)
 - Email: edehvictor715@gmail.com
 
-## Profile Note
-
 This profile is a reflection of my ongoing work, learning, and growth as a developer. I'm always looking to improve, build meaningful things, and contribute to projects that value quality and impact.
