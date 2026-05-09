@@ -11,8 +11,6 @@ My approach to engineering is grounded in clarity, security, and long-term maint
 - Clean architecture, maintainable code, and strong testing practices
 - Developer-friendly workflows that improve reliability and collaboration
 
-My interests include secure application logic, blockchain systems, backend services, engineering quality, and tools that improve how software is built and maintained.
-
 ## Technical Focus
 
 - Backend development
@@ -28,24 +26,7 @@ My interests include secure application logic, blockchain systems, backend servi
 - TypeScript
 - Git
 - GitHub
-
-## What I Value
-
-- Writing software that is easy to reason about
-- Designing systems with clear responsibilities and stable behavior
-- Catching edge cases early through strong test coverage
-- Treating security-sensitive code with care and discipline
-- Building with production quality in mind, not just local success
-
-## Current Interests
-
-I'm currently focused on growing deeper in:
-- smart contract and blockchain engineering
-- secure stateful system design
-- backend architecture
-- open-source contribution
-- testing strategies for complex application logic
-
+- 
 ## Open Source and Collaboration
 
 I'm interested in contributing to and collaborating on projects involving:
@@ -57,7 +38,7 @@ I'm interested in contributing to and collaborating on projects involving:
 
 ## Connect
 
-- GitHub: [@edehvictor](https://github.com/edehvictor)
+- GitHub: [@edehvictor](https://github.com/edehvictor) 
 
 ## Profile Note
 
