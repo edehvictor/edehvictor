@@ -20,30 +20,11 @@ My approach to engineering is grounded in clarity, security, and long-term maint
 - Git and collaborative development
 - Performance, reliability, and maintainability
 
-### Technologies
-- Rust
-- JavaScript
-- TypeScript
-- Git
-- GitHub
-- 
-## Open Source and Collaboration
-
-I'm interested in contributing to and collaborating on projects involving:
-- backend systems
-- developer tools
-- Rust projects
-- blockchain and smart contract applications
-- engineering quality improvements through testing and refactoring
-
 ## Connect
 
-- GitHub: [@edehvictor](https://github.com/edehvictor) 
+- GitHub: [@edehvictor](https://github.com/edehvictor)
+- Email: edehvictor715@gmail.com
 
 ## Profile Note
 
 This profile is a reflection of my ongoing work, learning, and growth as a developer. I'm always looking to improve, build meaningful things, and contribute to projects that value quality and impact.
-
----
-
-Thanks for visiting my profile.
